@@ -1,4 +1,4 @@
-package basic_problems.countlines;
+package csvfilehandling.basic_problems.countlines;
 
 import com.opencsv.CSVReader;
 
